@@ -8,7 +8,8 @@ int main(void)
   // to get the input from user till it is non negative
   do
   {
-   d = get_float("Change owed: ");
+    printf("Change owed: ");
+    scanf("%f", d);
   }
   while (d < 0);
      
