@@ -19,3 +19,8 @@
 - Open Git bash in your PC terminal
 
 ![Gitbash](https://raw.githubusercontent.com/NancyNegi23/C_codes/main/images%20CloneRepo/Gitbash.png)
+
+- Now Paste the copied link of the Repository
+- Once all the files get copied in your local computer you are good to go.
+- Now make appripriate changes or Add files.
+
